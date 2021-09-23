@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'avada-construction';
+  src:  url('fonts/avada-construction.eot?z53mw7');
+  src:  url('fonts/avada-construction.eot?z53mw7#iefix') format('embedded-opentype'),
+    url('fonts/avada-construction.ttf?z53mw7') format('truetype'),
+    url('fonts/avada-construction.woff?z53mw7') format('woff'),
+    url('fonts/avada-construction.svg?z53mw7#avada-construction') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="construction"], [class*=" construction"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'avada-construction' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.constructionfacebook-f-brands:before {
+  content: "\e900";
+}
+.constructioninstagram-brands:before {
+  content: "\e901";
+}
+.constructiontwitter-brands:before {
+  content: "\e902";
+}
+.constructionyoutube-brands:before {
+  content: "\e903";
+}
+.constructionbars-solid1:before {
+  content: "\e905";
+}
+.constructionbuilding-regular:before {
+  content: "\e906";
+}
+.constructionclock-regular:before {
+  content: "\e907";
+}
+.constructionenvelope-regular:before {
+  content: "\e908";
+}
+.constructionglobe-solid:before {
+  content: "\e909";
+}
+.constructionhome-solid:before {
+  content: "\e90a";
+}
+.constructionlightbulb-regular:before {
+  content: "\e90b";
+}
+.constructionphone-solid:before {
+  content: "\e90c";
+}
+.constructionsuitcase-solid:before {
+  content: "\e90d";
+}
+.constructionsun-regular:before {
+  content: "\e90e";
+}
+.constructionsync-solid:before {
+  content: "\e90f";
+}
+.constructiontimes-solid1:before {
+  content: "\e910";
+}
+.constructiontruck-solid:before {
+  content: "\e911";
+}
+.constructionusers-solid:before {
+  content: "\e912";
+}
